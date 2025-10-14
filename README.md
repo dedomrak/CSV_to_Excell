@@ -10,4 +10,4 @@ If you prefer Linux OS run :
 ```javascript
     make
 ```
-There are Makefile in the source folder.
+There is Makefile in the source folder.
